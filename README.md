@@ -1,3 +1,3 @@
 # Golang
 
-Latihan Golang dari Modul LepKom yang berisi pemograman dasar golang
+Latihan Golang dari Modul LepKom yang berisi pemograman dasar golang untuk pemula
